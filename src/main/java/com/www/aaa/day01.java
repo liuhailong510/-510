@@ -13,12 +13,11 @@ public class day01 {
 //        }else{
 //            System.out.println("不嫁");
 //        }
-
         String a = "姓名";
-
 
         System.out.println("姓名\t年龄\t成绩\t性别\t爱好");
         System.out.println("lisi\t18\t\t100\t\t男\t\t跑");
+
     }
 
 }
